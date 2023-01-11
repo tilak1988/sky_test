@@ -46,7 +46,7 @@ This repository is created for demo with sky
  4) python --version
   
      Sample Output after sucessfull instalation: Python 3.9.13
-     ```
+```
    
 **To Create Infra**
 
