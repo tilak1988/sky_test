@@ -29,7 +29,6 @@ This repository is created for demo with sky
 2) aws sts get-caller-identity
  
    Sample Output after sucessfull instalation:
-
   <pre><code>
  {
    "UserId": "810515221234",
@@ -37,7 +36,6 @@ This repository is created for demo with sky
    "Arn": "arn:aws:iam::810515221234:tilak"
  } 
  </code></pre>
-   
  3) terraform --version    
     
      Sample Output after sucessfull instalation: Terraform v1.3.6 
