@@ -3,7 +3,7 @@
 This repository is created for demo with sky
 
 **Pre-Requsites**
-
+```
 1) Install python3 instead of python based on the Operating System.
 
    Reference Link - https://www.python.org/downloads/
@@ -19,6 +19,7 @@ This repository is created for demo with sky
 4) Install Terraform in you local host based on the Operating System. (The terraform version used for this code is Terraform v1.3.6)
 
    Reference Link - https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
+   ```
 
 **Validation for Pre-Requsites** 
 
