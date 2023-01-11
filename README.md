@@ -56,9 +56,9 @@ This repository is created for demo with sky
    
 2) Navigate to the directory sky_test
    
-   # terraform init (To initilize the provider plugins to talk to the providers specified in .tf file)
+   # terraform init (To initilize the plugins of the provider specified in the .tf file)
    
-   # terraform fmt (To format the code with any syntax errors)
+   # terraform fmt (To format the code without any syntax errors)
    
    # terraform plan (To validate the changes it is going to perform on our infrastructure)
    
@@ -69,7 +69,7 @@ This repository is created for demo with sky
    # terraform apply --auto-approve (To create/modify the infra without yes or no option, which can used when we automated the provision by any CI tool)
 ```
 
-**To Destroy an Environment**
+**To Destroy Infra**
 
 ```
 # terraform destroy (To destroy the existing infrastructure with yes or no option)
