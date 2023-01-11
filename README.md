@@ -30,16 +30,14 @@ This repository is created for demo with sky
 2) aws sts get-caller-identity
  
    Sample Output after sucessfull instalation: 
+   {
   
-  {
-  
-   "UserId": "810515221234",
+    "UserId": "810515221234",
    
-   "Account": "810515221234",
+    "Account": "810515221234",
    
-   "Arn": "arn:aws:iam::810515221234:tilak"
-   
- } 
+    "Arn": "arn:aws:iam::810515221234:tilak"
+   } 
 
  3) terraform --version    
     
