@@ -74,3 +74,7 @@ This repository is created for test with sky
 
 # terraform destroy --auto-approve (To destroy the infra without yes or no option, which can used when we automated the provision by any CI tool)
 ```
+
+**Load Balancer Link**
+
+http://my-test-terraform-alb-2083817731.us-west-2.elb.amazonaws.com/
