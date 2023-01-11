@@ -28,7 +28,7 @@ This repository is created for demo with sky
    
 2) aws sts get-caller-identity
  
-   Sample Output after sucessfull instalation:
+   <p> Sample Output after sucessfull instalation: <p>
   <pre><code>
  {
    "UserId": "810515221234",
