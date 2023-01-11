@@ -24,14 +24,13 @@ This repository is created for demo with sky
 
 1) aws --version (Will come to know the installed version of aws cli) 
 
-   Sample Output after sucessfull instalation: 
-   </code></pre> aws-cli/2.9.12 Python/3.9.11 Windows/10 exe/AMD64 prompt/off</code></pre>
+   Sample Output after sucessfull instalation: aws-cli/2.9.12 Python/3.9.11 Windows/10 exe/AMD64 prompt/off
    
 2) aws sts get-caller-identity
  
    Sample Output after sucessfull instalation: 
   <pre><code> 
-  {
+ {
    "UserId": "810515221234",
    "Account": "810515221234",
    "Arn": "arn:aws:iam::810515221234:tilak"
@@ -39,13 +38,11 @@ This repository is created for demo with sky
  </code></pre>
  3) terraform --version    
     
-     Sample Output after sucessfull instalation: 
-     </code></pre> Terraform v1.3.6</code></pre> 
+     Sample Output after sucessfull instalation: Terraform v1.3.6
      
  4) python --version
   
-     Sample Output after sucessfull instalation: 
-     </code></pre> Python 3.9.13</code></pre>
+     Sample Output after sucessfull instalation: Python 3.9.13
    
 **To Create Infra**
 
