@@ -55,7 +55,24 @@ This repository is created for demo with sky
    git clone https://github.com/tilak1988/sky_test.git
    
 2) Navigate to the directory sky_test
-
+   
+   # terraform init (To initilize the provider plugins to talk to the providers specified in .tf file)
+   
+   # terraform fmt (To format the code with any syntax errors)
+   
+   # terraform plan (To validate the changes it is going to perform on our infrastructure)
+   
+   # terraform plan -out plan.tf (To validate the changes, it is going to perform on our infrastructure, and save the output to a file) 
+   
+   # terraform apply (To create/modify the infra with yes or no option)
+      
+   # terraform apply --auto-approve (To create/modify the infra without yes or no option, which can used when we automated the provision by any CI tool)
 ```
 
+**To Destroy an Environment**
 
+```
+# terraform destroy (To destroy the existing infrastructure with yes or no option)
+
+# terraform destroy --auto-approve (To destroy the infra without yes or no option, which can used when we automated the provision by any CI tool)
+```
