@@ -1,6 +1,6 @@
 # sky_test
 
-This repository is created for demo with sky
+This repository is created for test with sky
 
 **Pre-Requsites**
 ```
