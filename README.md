@@ -49,12 +49,13 @@ This repository is created for demo with sky
 ```
    
 **To Create Infra**
-
+```
 1) Clone the git repo to local
 
    git clone https://github.com/tilak1988/sky_test.git
    
 2) Navigate to the directory sky_test
 
+```
 
 
