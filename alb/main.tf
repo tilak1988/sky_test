@@ -99,4 +99,3 @@ resource "aws_security_group_rule" "outbound_all" {
   type              = "egress"
   cidr_blocks       = ["0.0.0.0/0"]
 }
-
