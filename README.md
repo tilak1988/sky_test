@@ -56,7 +56,7 @@ This repository is created for test with sky
    
    # terraform init (To initilize the plugins of the provider specified in the .tf file)
    
-   # terraform fmt (To format the code without any syntax errors)
+   # terraform fmt (To format the code without any indentation errors)
    
    # terraform plan (To validate the changes it is going to perform on our infrastructure)
    
